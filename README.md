@@ -1,7 +1,22 @@
+<h1 align="center">Приветствую <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 <p align="center"><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExejZmODk0Y3Y0NWlyb3pkNDdoM3Z2MXdwcm82eDVzbXpucHVoa2VrZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/e6tA359EUw2kqhOBHL/giphy.gif" width="100"/></p>
 <p align="center">
 <a href="https://t.me/AlikSabir"><img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/></a>
 </p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=sabir116rus&style=flat-square&color=blue" alt=""></p>
 
-<h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="250" height="150"/>
+</div>
+
+---
+
+### :man_technologist: Обо мне :
+- :mechanical_arm: Я – Python программист с опытом работы над разработкой фронтенда и бэкенда для создания веб-приложений. В своей практике я успешно применяю такие инструменты и технологии, как Django и Flask, а также имею опыт работы с HTML, CSS, и Bootstrap для разработки и стилизации пользовательских интерфейсов. Помимо этого, я знаком с работой с базами данных, DevOps практиками, и взаимодействием с API, что позволяет мне создавать и поддерживать полный стек приложений. Мои проекты включают создание чат-ботов, игр и веб-сайтов – всё, что помогает пользователям получать интуитивно понятные и удобные решения.
+
+- :man_student: Сейчас я активно изучаю профессию промт-инженера, расширяя свои знания и углубляясь в области, связанные с созданием и оптимизацией промтов для AI-систем. Моя цель – овладеть этой профессией в течение пяти месяцев, и в рамках обучения я работаю над освоением принципов, которые помогут мне стать востребованным специалистом в этой новой и перспективной сфере.
+
+- :zap: В свободное время я выполняю заказы на фрилансе, что позволяет мне применять на практике свои навыки и приобретать опыт решения реальных задач. Кроме того, я постоянно изучаю статьи и новостные ресурсы о новых технологиях в IT. Это помогает мне оставаться в курсе современных тенденций и открытий в индустрии, что, в свою очередь, способствует моему профессиональному росту и расширению знаний.
+
+- :mailbox:Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/AlikSabir)
